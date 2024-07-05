@@ -1,12 +1,12 @@
 # cryptocurrency-tracker
 A cryptocurrency tracker project designed to monitor real-time prices and trends of various cryptocurrencies.  It features intuitive visualizations to help users stay informed about market movements.
 # How to Setup & Run this Project
-❖ Install NodeJs ( Ignore If Already Installed)
+# Install NodeJs ( Ignore If Already Installed)
 1. Visit the official Node.js website i.e https://nodejs.org/en/download/
 2. Download the Node.js installer
 3. Run the installer.
 4. Follow the prompts in the installer.
-❖ Steps To Run The Project
+# Steps To Run The Project
 1. Open Project Folder In VS Code
 2. Open Integrated Terminal
    ○ Right Click on Sidebar > Select “Open In Integrated Terminal”
